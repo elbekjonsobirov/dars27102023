@@ -1,0 +1,186 @@
+@media (min-width: 780px) and (max-width: 1024px) {
+    .navbar {
+        padding: 30px 40px;
+        align-items: center;
+    }
+
+    .item-1 h1 {
+        font-size: 25px;
+    }
+
+    .item-2 ul li {
+        gap: 15px;
+    }
+
+    .item-2 ul li a {
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .navbar button {
+        width: auto;
+        height: auto;
+        padding: 7px 20px;
+    }
+
+    .header {
+        padding: 80px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header h1 {
+        font-size: 40px;
+        text-align: center;
+        line-height: 50px;
+    }
+
+    .header h4 {
+        margin-top: 20px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+    .header button {
+        width: auto;
+        height: auto;
+        margin-top: 30px;
+        border-radius: 5px;
+        padding: 15px 50px;
+    }
+    .Seaction {
+        padding: 80px;
+    }
+    .children-1 h4 {
+        text-align: center;
+    }
+    .children-2 {
+        margin-top: 30px;
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .babu-1 {
+        width: 200px;
+        height: auto;
+    }
+    .babu-1 img {
+        width: 200px;
+    }
+    .smoth {
+        padding: 20px;
+    }
+    .smoth h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .smoth h4 {
+        width: auto;
+        height: auto;
+        font-size: 15px;
+    }
+    .Many {
+        width: 100%;
+        height: auto;
+        padding: 0;
+    }
+    .offers-1 h1 {
+        font-size: 35px;
+    }
+    .offers-1 h4 {
+        font-size: 15px;
+    }
+    .offers-2 {
+        margin-top: 30px;
+        gap: 20px;
+        overflow: auto;
+    }
+    .abu-1 {
+        width: 200px;
+    }
+    .abu-1 h2 {
+        font-size: 20px;
+    }
+    .abu-1 .img {
+        width: 200px;
+    }
+    .abu-text {
+        padding: 10px;
+    }
+    .abu-1 h2 {
+        margin: 0;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .star {
+        gap: 15px
+    }
+    .small-1 {
+        gap: 5px;
+    }
+    .small-2 {
+        gap: 5px;
+        height: auto;
+    }
+    .small-1 h3 {
+        font-size: 15px;
+    }
+    .dolar h4 {
+        font-size: 14px;
+    }
+    .dolar h3 {
+        font-size: 16px;
+    }
+    .Any {
+        padding: 80px;
+    }
+    .top h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .top h3 {
+        font-size: 15px;
+    }
+    .link {
+        flex-direction: column;
+        width: 100%;
+    }
+    .left {
+        width: 100%;
+    }
+    .left img {
+        width: 100%;
+    }
+    .left h2 {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .right {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .yoy-1 {
+        width: 100%;
+        border-radius: 12px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.262);
+        padding: 1px;
+    }
+    .huk-1 img {
+        height: 100%;
+    }
+    .huk-2 {
+        align-items: flex-start;
+    }
+    .Footer {
+        margin-top: 0;
+        gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(2, 50%);
+        padding: 0 80px;
+        flex-wrap: wrap;
+    }
+    .Footer .all-send {
+        text-align: center;
+    }
+}
